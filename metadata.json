@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Stunting CDSS",
+  "description": "Sistem Pendukung Keputusan Klinis (CDSS) Pencegahan Stunting menggunakan model XGBoost dan Explainable AI (TreeSHAP).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
